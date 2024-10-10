@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\views\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\views\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\views\\header\\navigationbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\views\\header\\navigationbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\views\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\views\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\views\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\views\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\views\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\views\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\views\\transactionpages\\transactionreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\views\\transactionpages\\transactionreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\views\\transactionpages\\transactiondetailpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\views\\transactionpages\\transactiondetailpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\views\\transactionpages\\transactionhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\views\\transactionpages\\transactionhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\views\\stationery\\insertstationery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\views\\stationery\\insertstationery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\views\\stationery\\updatestationery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\views\\stationery\\updatestationery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\views\\stationery\\detailstationery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\views\\stationery\\detailstationery.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\views\\cartpages\\pagecart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\views\\cartpages\\pagecart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\views\\cartpages\\updatecart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\views\\cartpages\\updatecart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|d:\\samuell\\coding\\c#\\2602070244_bb01_comp6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\raiso\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B48341-765F-4EEC-89D0-0C759602D1FD}|Raiso\\Raiso.csproj|solutionrelative:raiso\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavigationBar.Master.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Header\\NavigationBar.Master.cs",
+              "RelativeDocumentMoniker": "Raiso\\Views\\Header\\NavigationBar.Master.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Header\\NavigationBar.Master.cs",
+              "RelativeToolTip": "Raiso\\Views\\Header\\NavigationBar.Master.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAMwGkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:54:48.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Raiso\\Controller\\UserController.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Controller\\UserController.cs",
+              "RelativeToolTip": "Raiso\\Controller\\UserController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAMwHwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:50:07.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserHandler.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Handler\\UserHandler.cs",
+              "RelativeDocumentMoniker": "Raiso\\Handler\\UserHandler.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Handler\\UserHandler.cs",
+              "RelativeToolTip": "Raiso\\Handler\\UserHandler.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:50:02.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Raiso\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Raiso\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:49:57.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateCart.aspx.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\CartPages\\UpdateCart.aspx.cs",
+              "RelativeDocumentMoniker": "Raiso\\Views\\CartPages\\UpdateCart.aspx.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\CartPages\\UpdateCart.aspx.cs",
+              "RelativeToolTip": "Raiso\\Views\\CartPages\\UpdateCart.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:49:42.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PageCart.aspx.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\CartPages\\PageCart.aspx.cs",
+              "RelativeDocumentMoniker": "Raiso\\Views\\CartPages\\PageCart.aspx.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\CartPages\\PageCart.aspx.cs",
+              "RelativeToolTip": "Raiso\\Views\\CartPages\\PageCart.aspx.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAWwEwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:49:41.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetailStationery.aspx.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Stationery\\DetailStationery.aspx.cs",
+              "RelativeDocumentMoniker": "Raiso\\Views\\Stationery\\DetailStationery.aspx.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Stationery\\DetailStationery.aspx.cs",
+              "RelativeToolTip": "Raiso\\Views\\Stationery\\DetailStationery.aspx.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAWwCIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:49:35.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateStationery.aspx.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Stationery\\UpdateStationery.aspx.cs",
+              "RelativeDocumentMoniker": "Raiso\\Views\\Stationery\\UpdateStationery.aspx.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Stationery\\UpdateStationery.aspx.cs",
+              "RelativeToolTip": "Raiso\\Views\\Stationery\\UpdateStationery.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:49:34.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InsertStationery.aspx.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Stationery\\InsertStationery.aspx.cs",
+              "RelativeDocumentMoniker": "Raiso\\Views\\Stationery\\InsertStationery.aspx.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Stationery\\InsertStationery.aspx.cs",
+              "RelativeToolTip": "Raiso\\Views\\Stationery\\InsertStationery.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:49:33.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionDetailPage.aspx.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\TransactionPages\\TransactionDetailPage.aspx.cs",
+              "RelativeDocumentMoniker": "Raiso\\Views\\TransactionPages\\TransactionDetailPage.aspx.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\TransactionPages\\TransactionDetailPage.aspx.cs",
+              "RelativeToolTip": "Raiso\\Views\\TransactionPages\\TransactionDetailPage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:49:29.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionHistory.aspx.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\TransactionPages\\TransactionHistory.aspx.cs",
+              "RelativeDocumentMoniker": "Raiso\\Views\\TransactionPages\\TransactionHistory.aspx.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\TransactionPages\\TransactionHistory.aspx.cs",
+              "RelativeToolTip": "Raiso\\Views\\TransactionPages\\TransactionHistory.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:49:28.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionReport.aspx.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\TransactionPages\\TransactionReport.aspx.cs",
+              "RelativeDocumentMoniker": "Raiso\\Views\\TransactionPages\\TransactionReport.aspx.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\TransactionPages\\TransactionReport.aspx.cs",
+              "RelativeToolTip": "Raiso\\Views\\TransactionPages\\TransactionReport.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAMwBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:49:27.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Raiso\\Views\\Register.aspx.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Register.aspx.cs",
+              "RelativeToolTip": "Raiso\\Views\\Register.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:49:18.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Raiso\\Views\\Login.aspx.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Login.aspx.cs",
+              "RelativeToolTip": "Raiso\\Views\\Login.aspx.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAewC0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:45:23.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Raiso\\Views\\Home.aspx.cs",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Home.aspx.cs",
+              "RelativeToolTip": "Raiso\\Views\\Home.aspx.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAMwBEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:44:50.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Home.aspx",
+              "RelativeDocumentMoniker": "Raiso\\Views\\Home.aspx",
+              "ToolTip": "D:\\Samuell\\Coding\\C#\\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\\Raiso\\Views\\Home.aspx",
+              "RelativeToolTip": "Raiso\\Views\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T04:25:41.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

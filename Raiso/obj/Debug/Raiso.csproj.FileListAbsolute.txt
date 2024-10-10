@@ -1,0 +1,669 @@
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\Raiso.dll.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\Raiso.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\Raiso.pdb
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\csc.exe
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\csc.exe.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\csc.rsp
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\csi.exe
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\csi.exe.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\csi.rsp
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.AppContext.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Collections.Immutable.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Console.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Globalization.Calendars.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.IO.Compression.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Net.Http.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Net.Sockets.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Reflection.Metadata.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.ValueTuple.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Xml.XPath.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\vbc.exe
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\vbc.exe.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\vbc.rsp
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\EntityFramework.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\EntityFramework.SqlServer.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\EntityFramework.xml
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\EntityFramework.SqlServer.xml
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\obj\Debug\Raiso.csproj.AssemblyReference.cache
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\obj\Debug\Raiso.csproj.CoreCompileInputs.cache
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\obj\Debug\Raiso.csproj.Up2Date
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\obj\Debug\Raiso.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RAisoV2\Raiso\Raiso\obj\Debug\Raiso.pdb
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\Raiso.dll.config
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\Raiso.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\Raiso.pdb
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\csc.exe
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\csc.exe.config
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\csc.rsp
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\csi.exe
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\csi.exe.config
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\csi.rsp
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.AppContext.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Console.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Net.Http.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\vbc.exe
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\vbc.exe.config
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\vbc.rsp
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\EntityFramework.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\EntityFramework.SqlServer.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\EntityFramework.xml
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\EntityFramework.SqlServer.xml
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\obj\Debug\Raiso.csproj.AssemblyReference.cache
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\obj\Debug\Raiso.csproj.CoreCompileInputs.cache
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\obj\Debug\Raiso.csproj.Up2Date
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\obj\Debug\Raiso.dll
+C:\Users\Jessica CW\Downloads\Raiso\Raiso\obj\Debug\Raiso.pdb
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\Raiso.dll.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\Raiso.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\Raiso.pdb
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\csc.exe
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\csc.exe.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\csc.rsp
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\csi.exe
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\csi.exe.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\csi.rsp
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.AppContext.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Collections.Immutable.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Console.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Globalization.Calendars.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.IO.Compression.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Net.Http.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Net.Sockets.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Reflection.Metadata.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.ValueTuple.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Xml.XPath.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\vbc.exe
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\vbc.exe.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\vbc.rsp
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\EntityFramework.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\EntityFramework.SqlServer.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\EntityFramework.xml
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\EntityFramework.SqlServer.xml
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\obj\Debug\Raiso.csproj.AssemblyReference.cache
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\obj\Debug\Raiso.csproj.CoreCompileInputs.cache
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\obj\Debug\Raiso.csproj.Up2Date
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\obj\Debug\Raiso.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\Raisohohoho\Raiso\Raiso\obj\Debug\Raiso.pdb
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\obj\Debug\Raiso.csproj.AssemblyReference.cache
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\obj\Debug\Raiso.csproj.CoreCompileInputs.cache
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\obj\Debug\Raiso.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\obj\Debug\Raiso.pdb
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\Raiso.dll.config
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\Raiso.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\Raiso.pdb
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\csc.exe
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\csc.exe.config
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\csc.rsp
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\csi.exe
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\csi.exe.config
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\csi.rsp
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.AppContext.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Console.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Net.Http.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\vbc.exe
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\vbc.exe.config
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\vbc.rsp
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.Shared.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.Web.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\EntityFramework.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\EntityFramework.SqlServer.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\stdole.dll
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\EntityFramework.xml
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\EntityFramework.SqlServer.xml
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jessica CW\Downloads\RaisoV4\Raiso\Raiso\obj\Debug\Raiso.csproj.Up2Date
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\Raiso.dll.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\Raiso.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\Raiso.pdb
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\csc.exe
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\csc.exe.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\csc.rsp
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\csi.exe
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\csi.exe.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\csi.rsp
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.AppContext.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Collections.Immutable.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Console.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Globalization.Calendars.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.IO.Compression.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Net.Http.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Net.Sockets.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Reflection.Metadata.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.ValueTuple.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Xml.XPath.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\vbc.exe
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\vbc.exe.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\vbc.rsp
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe.config
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportSource.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.Shared.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.Web.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\EntityFramework.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\EntityFramework.SqlServer.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\stdole.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\EntityFramework.xml
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\EntityFramework.SqlServer.xml
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\obj\Debug\Raiso.csproj.AssemblyReference.cache
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\obj\Debug\Raiso.csproj.CoreCompileInputs.cache
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\obj\Debug\Raiso.csproj.Up2Date
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\obj\Debug\Raiso.dll
+D:\Samuell\Binus\Semester4\LAB\PSD Project\RaisoV7 better need update\RaisoV4\Raiso\Raiso\obj\Debug\Raiso.pdb
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\Raiso.dll.config
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\Raiso.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\Raiso.pdb
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\csc.exe
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\csc.exe.config
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\csc.rsp
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\csi.exe
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\csi.exe.config
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\csi.rsp
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.AppContext.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Console.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Net.Http.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\vbc.exe
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\vbc.exe.config
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\vbc.rsp
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.Shared.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.Web.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\EntityFramework.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\EntityFramework.SqlServer.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\stdole.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\EntityFramework.xml
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\EntityFramework.SqlServer.xml
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\obj\Debug\Raiso.csproj.AssemblyReference.cache
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\obj\Debug\Raiso.csproj.CoreCompileInputs.cache
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\obj\Debug\Raiso.csproj.Up2Date
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\obj\Debug\Raiso.dll
+C:\Users\Jessica CW\Downloads\RaisoV8 need crystal report repair\Raiso\Raiso\obj\Debug\Raiso.pdb
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\Raiso.dll.config
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\Raiso.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\Raiso.pdb
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\csc.exe
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\csc.exe.config
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\csc.rsp
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\csi.exe
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\csi.exe.config
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\csi.rsp
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.AppContext.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Collections.Immutable.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Console.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Globalization.Calendars.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.IO.Compression.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Net.Http.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Net.Sockets.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Reflection.Metadata.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.ValueTuple.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Xml.XPath.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\vbc.exe
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\vbc.exe.config
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\vbc.rsp
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\roslyn\VBCSCompiler.exe.config
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportSource.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.Shared.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.Web.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\EntityFramework.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\EntityFramework.SqlServer.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\stdole.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\EntityFramework.xml
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\EntityFramework.SqlServer.xml
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\obj\Debug\Raiso.csproj.AssemblyReference.cache
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\obj\Debug\Raiso.csproj.CoreCompileInputs.cache
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\obj\Debug\Raiso.csproj.Up2Date
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\obj\Debug\Raiso.dll
+D:\Samuell\Binus\Semester4\RaisoV9 nyerah ga isa benerin id\RaisoV8 need crystal report repair\Raiso\Raiso\obj\Debug\Raiso.pdb
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\Raiso.dll.config
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\Raiso.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\Raiso.pdb
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\csc.exe
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\csc.exe.config
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\csc.rsp
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\csi.exe
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\csi.exe.config
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\csi.rsp
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.AppContext.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Console.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Net.Http.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\vbc.exe
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\vbc.exe.config
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\vbc.rsp
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.Shared.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.Web.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\EntityFramework.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\EntityFramework.SqlServer.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\stdole.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\EntityFramework.xml
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\EntityFramework.SqlServer.xml
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\obj\Debug\Raiso.csproj.AssemblyReference.cache
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\obj\Debug\Raiso.csproj.CoreCompileInputs.cache
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\obj\Debug\Raiso.csproj.Up2Date
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\obj\Debug\Raiso.dll
+C:\Users\Jessica CW\Downloads\RaisoV10\Raiso\obj\Debug\Raiso.pdb
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\Raiso.dll.config
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\Raiso.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\Raiso.pdb
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.ReportSource.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.Shared.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.Web.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\EntityFramework.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\EntityFramework.SqlServer.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\stdole.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\EntityFramework.xml
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\EntityFramework.SqlServer.xml
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\obj\Debug\Raiso.csproj.AssemblyReference.cache
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\obj\Debug\Raiso.csproj.CoreCompileInputs.cache
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\obj\Debug\Raiso.csproj.Up2Date
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\obj\Debug\Raiso.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\obj\Debug\Raiso.pdb
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\csc.exe
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\csc.exe.config
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\csc.rsp
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\csi.exe
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\csi.exe.config
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\csi.rsp
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.AppContext.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Collections.Immutable.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Console.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Globalization.Calendars.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.IO.Compression.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.IO.FileSystem.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Net.Http.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Net.Sockets.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Reflection.Metadata.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.ValueTuple.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Xml.XPath.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\vbc.exe
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\vbc.exe.config
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\vbc.rsp
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\VBCSCompiler.exe
+D:\Samuell\Coding\C#\2602070244_BB01_COMP6114001_2f2fb780-2d73-11ef-a1ac-6777e9de4a93\Raiso\bin\roslyn\VBCSCompiler.exe.config
